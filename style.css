@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Riot');
 body{
     background-color: #191919;
+    color: #191919;
 }
 * {
     margin: 0;
@@ -21,6 +24,38 @@ footer{
     color: #757575;
 }
 center img{
-    height: 90vh;
-    width: 130vh;
+    height: 60vh;
+    width: 85vh;
+}
+#ContentContainer{
+    background-color: #191919;
+    width: 50%;
+    height: fit-content;
+}
+h1{
+    color: #F5F5F5;
+    font-family: Protest Riot;
+}
+h2{
+    color: #F5F5F5;
+    font-family: Yanone Kaffeesatz;
+    font-size: x-large;
+}
+h3{
+    color: #F5F5F5;
+    font-family: Yanone Kaffeesatz;
+}
+#SocialContainer{
+    background-color: #191919;
+    width: 50%;
+    height: fit-content;
+}
+#SocialContainer h2{
+    color: #F5F5F5;
+    font-family: Protest Riot;
+    font-size: x-large;
+}
+#SocialContainer a img{
+    width: 6vh;
+    height: 6vh;
 }
