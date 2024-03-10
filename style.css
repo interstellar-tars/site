@@ -41,10 +41,6 @@ h2{
     font-family: Yanone Kaffeesatz;
     font-size: x-large;
 }
-h3{
-    color: #F5F5F5;
-    font-family: Yanone Kaffeesatz;
-}
 #SocialContainer{
     background-color: #191919;
     width: 50%;
@@ -58,4 +54,17 @@ h3{
 #SocialContainer a img{
     width: 6vh;
     height: 6vh;
+}
+header{
+    color: #5e0000;
+    width: 100%;
+    height: 6vh;
+}
+header h3{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    color: #F5F5F5;
+    font-family: Protest Riot;
+    background-color: #5e0000;
+    font-size: xx-large;
 }
